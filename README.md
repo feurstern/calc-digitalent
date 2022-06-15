@@ -13,3 +13,7 @@ Build an app that is functionally can doing some arithmatic operation like calcu
 
 **Rule #2**:  Do not use any Javascript framework and libraries!
 
+
+
+## The score:
+
